@@ -60,7 +60,7 @@ Actual:<br>
 #### Exercise 8: trim() - Removing Whitespace
 Prediction: <br>
 Padded string length: 20 <br>
-Trimmed string: 'Lots of spaces'
+Trimmed string: 'Lots of spaces' <br>
 Trimmed string length: 14
 
 Actual:<br>
